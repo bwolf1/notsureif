@@ -1,5 +1,5 @@
 # notsureif
-Source for [notsureif.com](http://notsureif.com), hosted from this repository, as a [Cloudflare Page](https://pages.cloudflare.com/).
+Source for [notsureif.com](http://notsureif.com), hosted from this repository as a [Cloudflare Page](https://pages.cloudflare.com/).
 
 ## Goals
 
