@@ -3,5 +3,5 @@ Source for [notsureif.com](http://notsureif.com), hosted from this repository, a
 
 ## Goals
 
-- Find and inexpensive home for [my domain](http://notsureif.com)
+- Find an inexpensive home for [my domain](http://notsureif.com)
 - See how [Cloudflare Page](https://pages.cloudflare.com/) work
